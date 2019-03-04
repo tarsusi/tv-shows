@@ -37,3 +37,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 To able to use absolute paths, create '.env' file at the root level(same as package.json),
 and set environment variable **NODE_PATH** to **src**
+<<<<<<< HEAD
+=======
+
+Loot at [medium post](https://medium.com/@ktruong008/absolute-imports-with-create-react-app-4338fbca7e3d) for details.
+>>>>>>> add absolute path usage and document it in README.MD
