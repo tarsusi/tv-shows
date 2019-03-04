@@ -1,0 +1,12 @@
+.app-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: $app-header-height;
+
+  background-color: $purple-700;
+  color: $white;
+
+  font-size: $font-size-large;
+}
