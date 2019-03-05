@@ -39,3 +39,15 @@ To able to use absolute paths, create '.env' file at the root level(same as pack
 and set environment variable **NODE_PATH** to **src**
 
 Loot at [medium post](https://medium.com/@ktruong008/absolute-imports-with-create-react-app-4338fbca7e3d) for details.
+
+### Colors
+
+The colors used in this project are retrieved from [material.io](https://material.io/design/color/#tools-for-picking-colors)
+
+### Tvmaze API
+
+All data are fetched from [tvmaze api](https://www.tvmaze.com/api)
+
+### Font
+
+[Google Roboto font](https://fonts.google.com/specimen/Roboto) is used in this project. It is injected this create-react-app bootstrapped project via using npm package named [typeface-roboto](https://github.com/KyleAMathews/typefaces/tree/master/packages/roboto)
