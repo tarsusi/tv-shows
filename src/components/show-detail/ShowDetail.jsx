@@ -69,7 +69,11 @@ class ShowDetail extends Component {
             <div className="show-information">
               <div className="show-information-title">Website</div>
               <div className="show-information-value">
-                <a href={showDetail.website} target="_blank">
+                <a
+                  href={showDetail.website}
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
                   {showDetail.website}
                 </a>
               </div>
