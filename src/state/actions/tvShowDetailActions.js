@@ -1,6 +1,6 @@
 export const fetchShowDetail = showId => ({
   type: "FETCH_SHOW_DETAIL",
-  payload: fetch(`http://api.tvmaze.com/shows/${showId}`).then(response =>
+  payload: fetch(`https://api.tvmaze.com/shows/${showId}`).then(response =>
     response.json()
   )
 });
