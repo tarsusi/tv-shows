@@ -8,7 +8,6 @@ import ShowDetail from "components/show-detail/ShowDetailContainer";
 
 import { SHOW_DETAIL_PATH, SHOW_LIST_PATH } from "common/constants/rootNames";
 
-import "typeface-roboto";
 import "./app.scss";
 
 class App extends Component {
