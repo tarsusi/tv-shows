@@ -1,3 +1,7 @@
 import { combineReducers } from "redux";
 
-export default combineReducers({});
+import tvShowList from "./tvShowListReducer";
+
+export default combineReducers({
+  tvShowList
+});
