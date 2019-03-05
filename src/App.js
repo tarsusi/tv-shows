@@ -6,6 +6,7 @@ import AppHeader from "components/app-header/AppHeader";
 import ShowList from "components/show-list/ShowList";
 import ShowDetail from "components/show-detail/ShowDetail";
 
+import "typeface-roboto";
 import "./app.scss";
 
 class App extends Component {
