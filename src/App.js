@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import AppHeader from "components/app-header/AppHeader";
 
-import ShowList from "components/show-list/ShowList";
+import ShowList from "components/show-list/ShowListContainer";
 import ShowDetail from "components/show-detail/ShowDetail";
 
 import "typeface-roboto";
