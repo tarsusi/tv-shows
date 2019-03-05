@@ -9,4 +9,22 @@
   color: $white;
 
   font-size: $font-size-large;
+
+  .back-button {
+    position: absolute;
+    left: 20px;
+    top: 15px;
+
+    height: 40px;
+
+    background-color: $teal-200;
+
+    border-radius: 10px;
+
+    color: $white;
+
+    font-size: $font-size-medium;
+
+    cursor: pointer;
+  }
 }
