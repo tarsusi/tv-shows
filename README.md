@@ -1,6 +1,6 @@
 # tv-shows
 
-Tv shows application written by React v16
+Tv-shows application is written using React library.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -50,4 +50,4 @@ All data are fetched from [tvmaze api](https://www.tvmaze.com/api)
 
 ### Font
 
-[Google Roboto font](https://fonts.google.com/specimen/Roboto) is used in this project. It is injected this create-react-app bootstrapped project via using npm package named [typeface-roboto](https://github.com/KyleAMathews/typefaces/tree/master/packages/roboto)
+[Google Roboto font](https://fonts.google.com/specimen/Roboto) is used in this project.
